@@ -15,6 +15,12 @@ public class naloga15 {
          * ----------   -------     --------    
          * a = 11 (3)  b = 01(1)  a = 10(2)
          * 
+         * Pravilnostna tabela:
+         * A | B | A ⊕ B
+         * 0 | 0 |   0
+         * 0 | 1 |   1 
+         * 1 | 0 |   1
+         * 1 | 1 |   0 
          * Vrstni red gre od navzgor proti navzdol, od leve proti desni
          */
 
